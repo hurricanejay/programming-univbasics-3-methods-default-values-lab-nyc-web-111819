@@ -11,5 +11,7 @@ def meal_choice(protein="meat", vegetable1, vegetable2)
 end
 
 def meal_choice(protein="tofu", vegetable1, vegetable2)
+  
+  puts "What a nutritious meal!"
 
 end
