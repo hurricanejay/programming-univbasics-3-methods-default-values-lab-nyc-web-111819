@@ -10,6 +10,6 @@ def meal_choice(protein="meat", vegetable1, vegetable2)
   
 end
 
-protein="tofu"
+def meal_choice(protein="tofu", vegetable1, vegetable2)
 
 end
