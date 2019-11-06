@@ -1,5 +1,5 @@
 # Your code here
-def meal_choice(protein="meat", vegetable1, vegetable2)
+def meal_choice(vegetable1, vegetable2, protein="meat")
   
   puts "A plate of #{protein} with #{vegetable1} and #{vegetable2}."
   
