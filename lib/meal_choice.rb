@@ -10,7 +10,7 @@ def meal_choice(protein="meat", vegetable1, vegetable2)
   
 end
 
-protein="tofu"
+def meal_choice(protein="tofu")
 
   puts "A plate of "tofu" with #{vegetable1} and #{vegetable2}."
   
