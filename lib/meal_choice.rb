@@ -12,8 +12,8 @@ end
 
 def meal_choice(protein="tofu")
 
-  puts "A plate of "tofu" with #{vegetable1} and #{vegetable2}."
+  puts "A plate of #{protein} with #{vegetable1} and #{vegetable2}."
   
-  return "A plate of "tofu" with #{vegetable1} and #{vegetable2}."
+  return "A plate of #{protein} with #{vegetable1} and #{vegetable2}."
   
 end
